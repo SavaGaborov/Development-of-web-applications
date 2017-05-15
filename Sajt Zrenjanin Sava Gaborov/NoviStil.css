@@ -1,0 +1,28 @@
+﻿body{background-image:url("pozdadina3.jpg");
+	 background-size:100%;
+	 color:Black;
+	 font-family:Curier,Verdana;
+	 font-style:normal;
+	 font-size:medium;
+	 text-decoration:none;}
+	 
+h3	{Font-size:larger;
+  	 text-align:left;
+  	 text-transform:uppercase;
+  	 text-decoration:underline;
+  	 font-stretch:wide;
+  	 color:Green;
+  	 text-indent:"2cm";}
+  	 
+h4{font-size:large;
+   text-align:right;
+   text-transform:uppercase;
+   text-decoration:none;
+   font-stretch:expanded;
+   font-family:Courier New;
+   color:#000066;}
+   
+   .fontComic{color:Black; font-size:medium; font-family:Comic Sans MS,Andalus,Verdana; font-weight:bold; text-align:left; font-variant:normal;}
+   
+   .naslov{color:Purple; font-size:xx-large; font-family:Comic Sans MS; font-weight:bold; text-align:center; text-decoration:underline;}
+     	 

@@ -1,0 +1,13 @@
+﻿body{background-image:url("pozadina1.jpg");
+	 background-size:100%;
+	 color:black;
+	 font-family:Verdana;
+	 font-style:normal;
+	 font-size:medium;
+	 text-decoration:none;}
+	 
+h1	{Font-size:xx-large;
+  	 text-align:center;
+  	 text-transform:uppercase;
+  	 text-decoration:none;
+  	 font-stretch:expanded;}
